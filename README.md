@@ -1,4 +1,4 @@
-# Natan — Personal Website
+# Natan Personal Website
 
 A static personal bio-link page. Profile picture and display name are
 pulled automatically from a Discord account, plus a Discord server card
